@@ -4,7 +4,7 @@
 ### Mission Statement: Our Goal at TJ's Book Emporium is to Deliver Your Copy of Popular Books As Quickly and Efficiently as Possible!
 
 # Link to website
-[Link to website](https://tristyn0123.github.io/Final/) 
+[Link to website](https://tristyn0123.github.io/TJ_BookStore/) 
 
 ## IST 256 Final Project
 **Description:**
